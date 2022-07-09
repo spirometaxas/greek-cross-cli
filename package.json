@@ -1,0 +1,33 @@
+{
+  "name": "greek-cross-cli",
+  "version": "1.0.0",
+  "description": "Print the Greek Cross Fractal to the console!",
+  "main": "./src/index.js",
+  "bin": {
+    "greek-cross-cli": "./src/cli.js"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spirometaxas/greek-cross-cli.git"
+  },
+  "scripts": {
+    "cli": "node ./src/cli.js"
+  },
+  "author": "Spiro Metaxas",
+  "license": "MIT", 
+  "keywords": [ 
+    "Greek Cross", 
+    "Greek Cross Fractal",
+    "fractal",
+    "fractals", 
+    "greek-cross-cli", 
+    "cli",
+    "console",
+    "terminal",
+    "shell",
+    "unicode" 
+  ]
+}
