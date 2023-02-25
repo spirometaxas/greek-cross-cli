@@ -1,6 +1,6 @@
 {
   "name": "greek-cross-cli",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Print the Greek Cross Fractal to the console!",
   "main": "./src/index.js",
   "bin": {
